@@ -1,8 +1,8 @@
-# tgiann-ymt-limit-bypass
+# tgiann-bypass-ymt-limit
 
 This is a **temporary workaround** for the YMT limit in FiveM. Using this script may cause **unpredictable crashes or instability**, but it will bypass the YMT limits when active.
 
-This method was discovered by chance while trying to fix an issue in the [tgiann-multichar](https://github.com/tgiann/tgiann-multichar) script. My friend **[um](https://shop.uyuyorumstore.com/)** noticed the exploit and helped find the exact code — we discovered this workaround together.
+This method was discovered by chance while trying to fix an issue in the [tgiann-multichar](https://www.tgiann.com/package/tgiann-multichar-spawn-selector-script) script. My friend **[um](https://shop.uyuyorumstore.com/)** noticed the exploit and helped find the exact code — we discovered this workaround together.
 
 ## Warning
 
